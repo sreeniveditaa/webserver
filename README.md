@@ -59,7 +59,9 @@ server_address =('',80)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
 ## OUTPUT:
-![server output](serveroutput.png)
-![client output](clientoutput.png)
+![Screenshot 2023-10-16 140609](https://github.com/sreeniveditaa/webserver/assets/147473268/354dd036-42d8-4223-8be1-6603a02ec5bc)
+![Screenshot 2023-10-16 140418](https://github.com/sreeniveditaa/webserver/assets/147473268/7a38fbac-bff0-43ca-93cf-790b6e4c2e71)
+
+
 ## RESULT:
 The program is executed succesfully
